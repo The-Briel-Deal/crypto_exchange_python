@@ -1,0 +1,7 @@
+flask 
+ariadne 
+flask-sqlalchemy 
+flask-cors
+python-dotenv
+.env
+.vscode
